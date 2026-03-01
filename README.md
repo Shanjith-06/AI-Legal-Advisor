@@ -13,5 +13,5 @@ How to Use
 Contributing
 Contributions are welcome! If you'd like to contribute, please fork the repo and submit a pull request.
 
-Disclaimer
+**Disclaimer :**
 The advice provided by AI Legal Advisor is for informational purposes only and should not be considered as professional legal advice. Consult a qualified lawyer for personalized guidance.
